@@ -1,4 +1,4 @@
-package decoded;
+package leetcode880;
 
 public class GetDecodeLetterAtIndexFunction {
     public String decodeAtIndex(String S, int K) {
