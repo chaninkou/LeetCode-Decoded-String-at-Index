@@ -6,7 +6,7 @@ public class GetDecodeLetterAtIndexFunction {
         
         char letter = 0;
         
-        // Count the total length
+        // store the total length
         for(int i = 0; i < S.length(); i++){
             letter = S.charAt(i);
             
